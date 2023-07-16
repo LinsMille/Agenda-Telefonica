@@ -1,6 +1,6 @@
 Agenda simples
 '''
-__author__ = 'Caio César'
+__author__ = 'Elisangela Bittencourt'
 __license__ = 'MIT'
 __version__ = '0.0.1'
 __status__ = 'Development'
